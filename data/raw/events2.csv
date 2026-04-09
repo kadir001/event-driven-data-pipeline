@@ -1,0 +1,5 @@
+timestamp,user_id,event,device
+2026-04-02 11:00:00,104,click,mobile
+2026-04-02 11:05:00,105,view,desktop
+2026-04-02 11:05:00,105,view,desktop
+2026-04-02 11:10:00,106,purchase,

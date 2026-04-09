@@ -1,0 +1,66 @@
+2026-04-09 16:40:06,144 - INFO - Pipeline gestart
+2026-04-09 16:40:06,144 - INFO - Start extract fase
+2026-04-09 16:40:06,145 - INFO - Inlezen bestand: events2.csv
+2026-04-09 16:40:06,156 - INFO - Inlezen bestand: events1.csv
+2026-04-09 16:40:06,160 - INFO - Aantal rijen na extract: 8
+2026-04-09 16:40:06,160 - INFO - Start transform fase
+2026-04-09 16:40:06,189 - INFO - Aantal rijen na transform: 6
+2026-04-09 16:40:06,189 - INFO - Start load fase
+2026-04-09 16:40:06,225 - INFO - Data succesvol opgeslagen in database
+2026-04-09 16:40:06,225 - INFO - Start analyse fase
+2026-04-09 16:40:06,227 - INFO - Analyse succesvol uitgevoerd
+2026-04-09 16:40:06,230 - INFO - Pipeline succesvol afgerond
+2026-04-09 17:17:22,140 - INFO - Pipeline gestart
+2026-04-09 17:17:22,141 - INFO - Start extract fase
+2026-04-09 17:17:22,143 - INFO - Inlezen bestand: events2.csv
+2026-04-09 17:17:22,154 - INFO - Inlezen bestand: events1.csv
+2026-04-09 17:17:22,158 - INFO - Aantal rijen na extract: 8
+2026-04-09 17:17:22,158 - INFO - Start transform fase
+2026-04-09 17:17:22,191 - INFO - Laatste timestamp in DB: 2026-04-02 11:10:00
+2026-04-09 17:17:22,194 - INFO - Aantal rijen na transform: 0
+2026-04-09 17:17:22,194 - INFO - Start load fase
+2026-04-09 17:17:22,196 - INFO - Data succesvol opgeslagen in database
+2026-04-09 17:17:22,196 - INFO - Start analyse fase
+2026-04-09 17:17:22,197 - INFO - Analyse succesvol uitgevoerd
+2026-04-09 17:17:22,200 - INFO - Pipeline succesvol afgerond
+2026-04-09 17:17:38,336 - INFO - Pipeline gestart
+2026-04-09 17:17:38,336 - INFO - Start extract fase
+2026-04-09 17:17:38,336 - INFO - Inlezen bestand: events2.csv
+2026-04-09 17:17:38,338 - INFO - Inlezen bestand: events1.csv
+2026-04-09 17:17:38,341 - INFO - Aantal rijen na extract: 8
+2026-04-09 17:17:38,341 - INFO - Start transform fase
+2026-04-09 17:17:38,350 - INFO - Laatste timestamp in DB: 2026-04-02 11:10:00
+2026-04-09 17:17:38,353 - INFO - Aantal rijen na transform: 0
+2026-04-09 17:17:38,353 - INFO - Start load fase
+2026-04-09 17:17:38,355 - INFO - Data succesvol opgeslagen in database
+2026-04-09 17:17:38,355 - INFO - Start analyse fase
+2026-04-09 17:17:38,356 - INFO - Analyse succesvol uitgevoerd
+2026-04-09 17:17:38,358 - INFO - Pipeline succesvol afgerond
+2026-04-09 17:18:36,829 - INFO - Pipeline gestart
+2026-04-09 17:18:36,829 - INFO - Start extract fase
+2026-04-09 17:18:36,829 - INFO - Inlezen bestand: events2.csv
+2026-04-09 17:18:36,832 - INFO - Inlezen bestand: events1.csv
+2026-04-09 17:18:36,834 - INFO - Inlezen bestand: events3.csv
+2026-04-09 17:18:36,837 - INFO - Aantal rijen na extract: 9
+2026-04-09 17:18:36,837 - INFO - Start transform fase
+2026-04-09 17:18:36,846 - INFO - Laatste timestamp in DB: 2026-04-02 11:10:00
+2026-04-09 17:18:36,849 - INFO - Aantal rijen na transform: 1
+2026-04-09 17:18:36,850 - INFO - Start load fase
+2026-04-09 17:18:36,863 - INFO - Data succesvol opgeslagen in database
+2026-04-09 17:18:36,863 - INFO - Start analyse fase
+2026-04-09 17:18:36,864 - INFO - Analyse succesvol uitgevoerd
+2026-04-09 17:18:36,866 - INFO - Pipeline succesvol afgerond
+2026-04-09 17:27:33,295 - INFO - Pipeline gestart
+2026-04-09 17:27:33,296 - INFO - Start extract fase
+2026-04-09 17:27:33,297 - INFO - Inlezen bestand: events2.csv
+2026-04-09 17:27:33,307 - INFO - Inlezen bestand: events1.csv
+2026-04-09 17:27:33,311 - INFO - Inlezen bestand: events3.csv
+2026-04-09 17:27:33,314 - INFO - Aantal rijen na extract: 9
+2026-04-09 17:27:33,314 - INFO - Start transform fase
+2026-04-09 17:27:33,347 - INFO - Laatste timestamp in DB: 2026-04-03 12:00:00
+2026-04-09 17:27:33,351 - INFO - Aantal rijen na transform: 0
+2026-04-09 17:27:33,351 - INFO - Start load fase
+2026-04-09 17:27:33,353 - INFO - Data succesvol opgeslagen
+2026-04-09 17:27:33,353 - INFO - Start analyse fase
+2026-04-09 17:27:33,354 - INFO - Analyse succesvol uitgevoerd
+2026-04-09 17:27:33,357 - INFO - Pipeline succesvol afgerond
